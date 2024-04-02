@@ -1,7 +1,7 @@
 # Mini project
 
 ## A. WRITTEN REPORT. 
-
+⚠️
 ### PAPER CITATION
 You need to include the citation to the selected paper that reports the work that you will attempt to
 replicate.
@@ -15,36 +15,46 @@ executive statement of the objectives of the project and what you expect to acco
 
 ### CASE STUDY: Summarize the case study that your mini project attempted to reproduce.
 
+⚠️
 ### NETWORK DATA SET: You will need to provide a general description of the data set that was
 analyzed.
 
 - Explain the Dataset: `Twich England`
 
 
-⚠️⚠️
+⚠️
 ### IMPLEMENTED NETWORK SCIENCE APPROACH
 Describe in general terms the implemented network science approach. The types of network models and methods that you used need to be mentioned.
 
+⚠️
 ### WEB LINKS TO SOURCE CODE AND EXPLANATORY VIDEO
-
+- Repository: `https://github.com/juansevargasc/ns4da-miniproject.git`
+- 
 
 ### TEAM MEMBERS´ CONTRIBUTIONS
 
+⚠️
 ### CONCLUSIONS. Devise the conclusions of your work, address the limitations of your analysis and
 how your analysis could be enhanced or built on it.
+
 ### REFERENCES.
 
 ## B. SOURCE CODE IMPLEMENTATION.
 
+⚠️ Juanse
 ### DATASET
 - Matching numbers.
 
+
 ### NETWORK SCIENCE APPROACH
+⚠️ Jhohan
 1. SCD
+
 
 2. EGO SPLITTING
 
-- Compare performance, say pros, weaknesses, show matching numbers
+- Compare performance, say pros, weaknesses, show matching numbers.
+
 
 ## C. EXPLANATORY VIDEO OF YOUR REPORT.
 
